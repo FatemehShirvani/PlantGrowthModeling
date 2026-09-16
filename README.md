@@ -2,7 +2,7 @@
 
 Real-time procedural plant growth and seasonal animation system written in C++ and OpenGL. The project integrates stochastic L-system branching, staged growth activation, leaf lifecycle simulation, wind response, alpha-tested foliage rendering, and shadow mapping in one interactive application.
 
-This was developed as the final project for **Fundamentals of Computer Graphics (IGR202)** at Institut Polytechnique de Paris, taught by [Amal Dev Parakkat](https://scholar.google.com/citations?hl=en&user=a-Lm3LgAAAAJ) and [Kiwon Um](https://scholar.google.com/citations?hl=en&user=H2Omi3wAAAAJ).
+This was developed as the final project for **Fundamentals of Computer Graphics (IGR202)** at Institut Polytechnique de Paris, taught by [Amal Dev Parakkat](https://perso.telecom-paristech.fr/parakkat/) and [Kiwon Um](https://perso.telecom-paristech.fr/kum/).
 
 Project report: [`docs/project-report.pdf`](docs/project-report.pdf)
 
