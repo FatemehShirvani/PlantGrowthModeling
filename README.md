@@ -4,7 +4,7 @@ Real-time procedural plant growth and seasonal animation system written in C++ a
 
 This was developed as the final project for **Fundamentals of Computer Graphics (IGR202)** at Institut Polytechnique de Paris, taught by [Amal Dev Parakkat](https://perso.telecom-paristech.fr/parakkat/) and [Kiwon Um](https://perso.telecom-paristech.fr/kum/).
 
-Project report: [`docs/project-report.pdf`](docs/project-report.pdf)
+See [report.pdf](docs/project-report.pdf) for the full write-up.
 
 ## What It Demonstrates
 
