@@ -2,6 +2,8 @@
 
 A real-time C++/OpenGL system that couples procedural tree growth, four-season behavior, wind response, leaf detachment, and shadowed foliage rendering. The central engineering goal is temporal coherence: growth, recoloring, shedding, wind, and rendering must remain synchronized without visible popping, pumping, or disconnected leaf motion.
 
+![Procedural tree growth and seasonal animation](media/plant-growth-loop.gif)
+
 Developed as the final project for **Fundamentals of Computer Graphics (IGR202)** at Institut Polytechnique de Paris, taught by [Amal Dev Parakkat](https://perso.telecom-paristech.fr/parakkat/) and [Kiwon Um](https://perso.telecom-paristech.fr/kum/).
 
 ## System Architecture
